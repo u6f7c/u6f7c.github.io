@@ -10,14 +10,12 @@ redirect_from:
 I am a sophomore student in Wuxi Taihu University now.
 
 <br>
-<br>
 
 Skills
 ======
 Python  
 HTML
 
-<br>
 <br>
 
 My projects
@@ -31,6 +29,7 @@ My projects
 
 Additional Achievements
 ======
+
 
 <br>
 
