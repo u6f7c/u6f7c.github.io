@@ -26,17 +26,16 @@ My projects
 <br>
 
 Additional Achievements
-------
+======
 
 <br>
 
-Download CV(../assets/cv1.pdf)
-------
-
+[Download CV](../assets/cv1.pdf)
+======
 <br>
 
 Contact details
-------
+======
 [Email](mailto:156697298@qq.com)  
 [Wechat](../images/wechat.jpg)  
 Phone number:13301596881
