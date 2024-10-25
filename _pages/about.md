@@ -30,15 +30,16 @@ Additional Achievements
 
 <br>
 
-Download CV
+Download CV(../assets/cv1.pdf)
 ------
-
 
 <br>
 
 Contact details
 ------
-13301596881  
-156697298@qq.com
+[Email](mailto:156697298@qq.com)  
+[Wechat](../images/wechat.jpg)  
+Phone number:13301596881
+
 
 <br>
