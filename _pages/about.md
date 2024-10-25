@@ -7,18 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a sophomore student in Wuxi Taihu University.
+I am a sophomore student in Wuxi Taihu University now.
 
 Skills
 ======
 Python  
 HTML
 
-
-Download CV
-======
-
-
+<br>
 
 My projects
 ======
@@ -27,11 +23,18 @@ My projects
 1. 
 1. 
 
+<br>
 
 Additional Achievements
+------
+
+<br>
+
+Download CV
 ======
 
 
+<br>
 
 Contact details
 ======
