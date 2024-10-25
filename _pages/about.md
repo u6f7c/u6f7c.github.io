@@ -11,8 +11,7 @@ I am a sophomore student in Wuxi Taihu University.
 
 Skills
 ======
-Python
-HTML
+Python  HTML
 
 
 Download CV
