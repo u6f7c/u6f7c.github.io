@@ -31,13 +31,14 @@ Additional Achievements
 <br>
 
 Download CV
-======
+------
 
 
 <br>
 
 Contact details
-======
-13301596881
+------
+13301596881  
 156697298@qq.com
 
+<br>
