@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ------
-* Qingjiang Middle School, Jiangsu Province                          September 2020 - June 2023
-* Wuxi Taihu Univeristy                                              September 2023 - October 2024(Currently pursing) 
+* Qingjiang Middle School, Jiangsu Province &emsp;&emsp;&emsp;&emsp; September 2020 - June 2023
+* Wuxi Taihu Univeristy  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; September 2023 - October 2024(Currently pursing) 
 <br>
 
 Work experience
