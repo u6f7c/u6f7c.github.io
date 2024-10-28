@@ -13,17 +13,17 @@ I am a sophomore student in Wuxi Taihu University now.
 
 Skills
 ======
-Python  
-HTML
+* Python  
+* HTML
 
 <br>
 
 My projects
 ======
-1. 
-1. 
-1. 
-1. 
+1. I am working on it.
+1. Please looking forward to it.
+1. I am working on it.
+1. Please looking forward to it.
 
 <br>
 
