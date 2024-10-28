@@ -17,12 +17,12 @@ Education
 
 Certifications
 ------
-<br>
+I am working on it.
 <br>
   
 Skills
 ------
-Python  
-HTML
+* Python  
+* HTML
 
 <br>
