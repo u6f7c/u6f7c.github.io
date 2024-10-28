@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a sophomore student in Wuxi Taihu University now. After completing my undergraduate studies, I would like to continue my graduate studies.
+I am a sophomore student in Wuxi Taihu University now.&emsp;After completing my undergraduate studies, I would like to continue my graduate studies.
 
 <br>
 
